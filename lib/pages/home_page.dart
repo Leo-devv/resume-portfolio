@@ -187,7 +187,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           const Text(
-            'LEO Mohamed',
+            'LEO',
             style: TextStyle(
               color: Colors.white,
               fontSize: 48,
@@ -249,7 +249,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
           crossAxisAlignment: CrossAxisAlignment.end,
           children: [
             const shadcn.Text(
-              'LEO MOHAMED',
+              'LEO',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 36,

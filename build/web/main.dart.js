@@ -60696,7 +60696,7 @@ l=m?70:30
 l=A.a7R(i,m?B.i:B.pE,i,B.aq,2,B.zG,i,l)
 k=m?B.i:B.yA
 m=m?B.aQ:B.w
-r[o]=A.qL(i,A.a7R(A.eY(A.a([l,A.a9j(A.hj(n.toUpperCase(),new A.j(!0,k,i,i,i,i,i,m,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i)))],q),B.ap,B.ae),i,i,B.aq,i,i,B.k3,i),B.az,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.a3B(j,o),i,i,i)}return A.yS(i,A.fe(A.a([B.M7,B.vq,B.M3,B.bb,s,B.eT,A.fe(r,B.a0),B.eT,A.eY(A.a([j.iz(B.ke,"https://github.com/Leo-devv"),j.iz(B.kg,u.v),j.iz(B.kf,"https://www.instagram.com/lifeofhussey/"),j.iz(B.kh,"mailto:leo.mohaamed@gmail.com")],q),B.ap,B.ae)],q),B.a0),B.u,i,i,i,i,i,i,new A.b7(a,100,5,100),i,i,h.a.a*0.5)},
+r[o]=A.qL(i,A.a7R(A.eY(A.a([l,A.a9j(A.hj(n.toUpperCase(),new A.j(!0,k,i,i,i,i,i,m,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i)))],q),B.ap,B.ae),i,i,B.aq,i,i,B.k3,i),B.az,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i,new A.a3B(j,o),i,i,i)}return A.yS(i,A.fe(A.a([B.M3,B.vq,B.M5,B.bb,s,B.eT,A.fe(r,B.a0),B.eT,A.eY(A.a([j.iz(B.ke,"https://github.com/Leo-devv"),j.iz(B.kg,u.v),j.iz(B.kf,"https://www.instagram.com/lifeofhussey/"),j.iz(B.kh,"mailto:leo.mohaamed@gmail.com")],q),B.ap,B.ae)],q),B.a0),B.u,i,i,i,i,i,i,new A.b7(a,100,5,100),i,i,h.a.a*0.5)},
 iz(a,b){var s=null
 return new A.eV(B.zM,A.qL(s,A.acG(a,B.i,s),B.az,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a3C(b),s,s,s),s)},
 ut(a,b){return A.fe(A.a([A.aex(A.hj(a,B.Jr)),B.bb,b],t.E),B.a0)}}
@@ -60741,7 +60741,7 @@ o=this.a
 s=t.E
 r=o.d
 if(p>1200)return A.eY(A.a([o.PX(n),A.Pv(A.aea(new A.eV(new A.b7(40,40,m,40),A.fe(A.a([B.Hy,B.vI,B.eT,A.acr(),B.eT,A.adG(r),A.aed(q,50,q),A.a9i(B.vH)],s),B.a0),q),r))],s),B.ap,B.ae)
-else return A.aea(new A.eV(B.fX,A.fe(A.a([A.fe(A.a([A.eY(A.a([B.M6,A.a9j(B.M1)],s),B.jR,B.ae),B.vq,B.M2,B.bb,A.a9i(B.vG),B.Hx,A.eY(A.a([o.iz(B.ke,"https://github.com/Leo-devv"),o.iz(B.kg,u.v),o.iz(B.kf,"https://www.instagram.com/lifeofhussey/"),o.iz(B.kh,"mailto:your-email@example.com")],s),B.ap,B.ae)],s),B.a0),B.bb,o.ut("About",B.vI),B.bb,o.ut("Experience",A.acr()),B.bb,o.ut("",A.adG(r)),A.a9i(B.vH)],s),B.a0),q),r)},
+else return A.aea(new A.eV(B.fX,A.fe(A.a([A.fe(A.a([A.eY(A.a([B.M2,A.a9j(B.M1)],s),B.jR,B.ae),B.vq,B.M4,B.bb,A.a9i(B.vG),B.Hx,A.eY(A.a([o.iz(B.ke,"https://github.com/Leo-devv"),o.iz(B.kg,u.v),o.iz(B.kf,"https://www.instagram.com/lifeofhussey/"),o.iz(B.kh,"mailto:your-email@example.com")],s),B.ap,B.ae)],s),B.a0),B.bb,o.ut("About",B.vI),B.bb,o.ut("Experience",A.acr()),B.bb,o.ut("",A.adG(r)),A.a9i(B.vH)],s),B.a0),q),r)},
 $S:369}
 A.a3B.prototype={
 $0(){this.a.Wk(this.b)},
@@ -60855,7 +60855,7 @@ $S:15}
 A.Cb.prototype={
 T(a){var s,r,q,p=null,o=J.RR(4,t.l7)
 for(s=this.d,r=this.c,q=0;q<4;++q)o[q]=new A.t5(s[q],q,r,p)
-return new A.eV(B.fX,A.fe(A.a([B.M5,B.bb,A.fe(o,B.ap),B.bb,A.abt(new A.zC(new A.WU(),p,p,p,p,p,p,!1,p,B.M4,p))],t.E),B.a0),p)}}
+return new A.eV(B.fX,A.fe(A.a([B.M7,B.bb,A.fe(o,B.ap),B.bb,A.abt(new A.zC(new A.WU(),p,p,p,p,p,p,!1,p,B.M6,p))],t.E),B.a0),p)}}
 A.WU.prototype={
 $0(){},
 $S:0}
@@ -66097,21 +66097,21 @@ B.Ln=new A.j(!0,B.v,null,null,null,null,null,null,null,null,null,null,null,null,
 B.vG=new A.dY("I build pixel-perfect, engaging, and accessible digital experiences.",B.Ln,null)
 B.IQ=new A.j(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.M1=new A.dY("",B.IQ,null)
-B.Jt=new A.j(!0,B.i,null,null,null,null,20,B.T,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M2=new A.dY("Senior Frontend Engineer",B.Jt,null)
-B.Ju=new A.j(!0,B.i,null,null,null,null,24,B.T,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M3=new A.dY("Senior Frontend Engineer",B.Ju,null)
-B.M4=new A.dY("More Coming Soon",null,null)
-B.Jv=new A.j(!0,B.i,null,null,null,null,24,B.aQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M5=new A.dY("Projects",B.Jv,null)
+B.Jt=new A.j(!0,B.i,null,null,null,null,36,B.aQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.M2=new A.dY("LEO",B.Jt,null)
+B.Ju=new A.j(!0,B.i,null,null,null,null,48,B.aQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.M3=new A.dY("LEO",B.Ju,null)
+B.Jv=new A.j(!0,B.i,null,null,null,null,20,B.T,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.M4=new A.dY("Senior Frontend Engineer",B.Jv,null)
+B.Jw=new A.j(!0,B.i,null,null,null,null,24,B.T,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.M5=new A.dY("Senior Frontend Engineer",B.Jw,null)
+B.M6=new A.dY("More Coming Soon",null,null)
+B.Jx=new A.j(!0,B.i,null,null,null,null,24,B.aQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.M7=new A.dY("Projects",B.Jx,null)
 B.Iw=new A.j(!0,B.jz,null,null,null,null,null,B.cC,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.vH=new A.dY("Loosely designed in Figma and coded in Visual Studio Code by yours truly. Built with Dart, Html  and  Js.",B.Iw,null)
-B.Jw=new A.j(!0,B.i,null,null,null,null,36,B.aQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M6=new A.dY("LEO MOHAMED",B.Jw,null)
 B.Jc=new A.j(!0,B.v,null,null,null,null,16.5,null,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.vI=new A.dY("Back in 2017, I embarked on my engineering journey and have since built apps for companies, businesses, and startups. I\u2019ve created multiple apps that were the first of their kind to hit the market. Currently, I am working at LightWork, focusing on giving customers the time they need by letting our app handle all their property management problems. \n\nI am fortunate to have international experience, having worked with companies from different continents. This opportunity has not only allowed me to collaborate with new people but also to experience diverse cultures and work environments. \n\nWhen I\u2019m not working, I indulge in my content creation hobby, creating videos for my 100k fans on YouTube, or I am traveling, as I have a passion for exploring new places.",B.Jc,null)
-B.Jx=new A.j(!0,B.i,null,null,null,null,48,B.aQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M7=new A.dY("LEO Mohamed",B.Jx,null)
 B.M8=new A.ub(null)
 B.aW=new A.Er(0,"clamp")
 B.cd=new A.Er(3,"decal")
